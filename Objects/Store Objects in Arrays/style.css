@@ -1,0 +1,58 @@
+* {
+      box-sizing: border-box;
+    }
+    html,
+    body {
+      min-height: 100%;
+      padding: 0;
+      margin: 0;
+    }
+    body {
+      color: #fff;
+      font-size: 1em;
+      font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      background-image: linear-gradient(15deg, #97dff4 0%, #38a9cb 100%);
+    }
+    
+    main {
+      width: 60%;
+      max-width: 1080px;
+      padding: 40px 0;
+      margin: 0 auto;
+    }
+    
+    h1 {
+      font-size: 3.75em;
+      text-align: center;
+      margin: 0.35em 0 0.5em;
+      text-shadow: 0 2px 0 rgba(0,0,0, 0.1);
+    }
+    
+    h2 {
+      font-size: 2.5em;
+      font-weight: normal;
+    }
+    
+    main p {
+      font-size: 1.9em;
+      margin: 0;
+      line-height: 1.5;
+      text-align: center;
+    }
+    
+    ul,
+    ol {
+      list-style-position: inside;
+      font-size: 1.5em;
+      margin: 0;
+      padding: 0;  
+    }
+    li {
+      line-height: 1.25;
+      margin: 0 0 1.1em;
+      color: #42b4d6; 
+      padding: 0.8em;
+      background-color: white;
+      border-radius: 3px;
+      box-shadow: 0 2px 0 rgba(0,0,0, 0.1);
+    }

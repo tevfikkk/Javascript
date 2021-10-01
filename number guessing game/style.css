@@ -1,0 +1,44 @@
+
+body {
+      color: #fff;
+      font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      box-sizing: border-box;
+      background-color: #3f8abf;
+    }
+    
+    main {
+      width: 90%;
+      max-width: 1080px;
+      padding: 60px 0 0;
+      margin: 0 auto;
+    }
+    
+    main div {
+      color: #3f8abf;
+      font-weight: 500;
+      font-size: 1.25em;
+      text-align: center;
+      line-height: 58px;
+      width: 55px;
+      height: 55px;
+      display: inline-block;
+      background-color: white;
+      border-radius: 50%;
+      margin: 0.5em;
+    }
+    
+    h1 {
+      font-size: 3em;
+          line-height: 1.35;
+      text-shadow: 0 2px 1px rgba(0,0,0, 0.15);
+    }
+    
+    h2 {
+      font-size: 2.5em;
+      font-weight: normal;
+    }
+    
+    p {
+      font-size: 2em;
+      line-height: 0.8;
+    }
